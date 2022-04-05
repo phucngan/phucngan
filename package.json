@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.3",
+    "nodejs-model": "^0.1.6",
+    "nodemon": "^2.0.15"
+  }
+}
